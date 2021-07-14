@@ -20,7 +20,7 @@ This project was my attempt to create a custom controller that can be connected 
 
 <HTML>
   
-<img src="images_folder/IMG_2225.jpg" height=300 width=600 align=right style="float:left; padding-left:10px">
+<img src="images_folder/IMG_2225.jpg" height=300 width=375 align=right style="float:left; padding-left:10px">
   
 </HTML>
 
