@@ -11,7 +11,7 @@ This project was my attempt to create a custom controller that can be connected 
 <HTML>
   
 <img src="images_folder/IMG-2207.jpg" width=300 align=left style="float:left; padding-right:10px">
-<img src="images_folder/IMG-2217.jpg" width=300 align=left style="float:left; padding-right:10px"> My first milestone was creating a circuit that uses: an Arduino Micro, pushbuttons, and resistors, in order to remotely trigger a keyboard response (the arrow keys in particular). This is one angle of the final product. 
+<img src="images_folder/IMG-2217.jpg" width=300 align=left style="float:left; padding-right:10px"> My first milestone was creating a circuit that uses: an Arduino Micro, pushbuttons, and resistors, in order to remotely trigger a keyboard response (the arrow keys in particular). The primary concept I took advantage of here is the usage of input pins and pulldown resistors. 
   
 </HTML>
 
@@ -20,7 +20,6 @@ This project was my attempt to create a custom controller that can be connected 
 My first milestone was creating a circuit that uses: an Arduino Micro, pushbuttons, and resistors, in order to remotely trigger a keyboard response (the arrow keys in particular).
 
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
 
 # Final Milestone
 
