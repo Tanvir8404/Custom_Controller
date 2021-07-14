@@ -10,14 +10,14 @@ This project was my attempt to create a custom controller that can be connected 
 
 <HTML>
   
-<img src="images_folder/IMG-2207.jpg" height=475 width=425 align=left style="float:left; padding-right:10px">
+<img src="images_folder/IMG-2207.jpg" height=475 width=450 align=left style="float:left; padding-right:10px">
   
   My first milestone was creating a circuit that uses: an Arduino Micro, pushbuttons, and resistors, in order to remotely trigger a keyboard response (the arrow keys in particular). This point marks the establishment of the basics for this project. At its core, the button press changes the state of the voltage between the sensor wire and the rest of the circuit. It is noteworthy that I used an ESP32 and was unsuccessful in establishing a BlueTooth connection.
  
   The value the input pin reads essentially acts as a Boolean value for an "if" statement. When the button is released, the current is no longer flowing through the sensor wire. As a result, this prompted the use of a resistor (more specifically, the pull-down resistor) whose sole purpose is to return to ground, effectively completing the circuit. The primary concept I took advantage of here is the usage of input pins and pulldown resistors.
   
-<img src="images_folder/IMG-2225.jpg" height=325 width=550 align=left style="float:left; padding-right:0px">
-<img src="images_folder/ESP32 BlueTooth Issue.png" height=325 width=400 align=left style="float:left; padding-right:0px">
+<img src="images_folder/IMG-2225.jpg" height=325 width=525 align=left style="float:left; padding-right:0px">
+<img src="images_folder/ESP32 BlueTooth Issue.png" height=325 width=425 align=left style="float:left; padding-right:0px">
   
 </HTML>
 
