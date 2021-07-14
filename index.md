@@ -10,7 +10,7 @@ This project was my attempt to create a custom controller that can be connected 
 
 <HTML>
   
-<img src="images_folder/IMG-2207.jpg" width=300 align=left style="float:left; padding-right:10px"> <img src="images_folder/IMG-2217.jpg" width=300 align=left style="float:left; padding-right:10px"> My first milestone was creating a circuit that uses: an Arduino Micro, pushbuttons, and resistors, in order to remotely trigger a keyboard response (the arrow keys in particular). This is one angle of the final product. 
+<img src="images_folder/IMG-2207.jpg" width=300 align=left style="float:left; padding-right:0px"> <img src="images_folder/IMG-2217.jpg" width=300 align=left style="float:left; padding-right:10px"> My first milestone was creating a circuit that uses: an Arduino Micro, pushbuttons, and resistors, in order to remotely trigger a keyboard response (the arrow keys in particular). This is one angle of the final product. 
   
 </HTML>
 
