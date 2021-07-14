@@ -10,8 +10,8 @@ This project was my attempt to create a custom controller that can be connected 
 
 <HTML>
   
-<img src="images_folder/IMG-2207.jpg" length=300 width=300 align=left style="float:left; padding-right:10px">
-<img src="images_folder/IMG-2217.jpg" length=300 width=300 align=left style="float:left; padding-right:10px">
+<img src="images_folder/IMG-2207.jpg" length=275 width=275 align=left style="float:left; padding-right:10px">
+<img src="images_folder/IMG-2217.jpg" length=275 width=275 align=left style="float:left; padding-right:10px">
   
   My first milestone was creating a circuit that uses: an Arduino Micro, pushbuttons, and resistors, in order to remotely trigger a keyboard response (the arrow keys in particular). This point marks the establishment of the basics for this project. At its core, the button press changes the state of the voltage between the sensor wire and the rest of the circuit.
   
