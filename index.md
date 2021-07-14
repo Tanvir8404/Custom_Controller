@@ -16,7 +16,7 @@ This project was my attempt to create a custom controller that can be connected 
  
   The value the input pin reads essentially acts as a Boolean value for an "if" statement. When the button is released, the current is no longer flowing through the sensor wire. As a result, this prompted the use of a resistor (more specifically, the pull-down resistor) whose sole purpose is to return to ground, effectively completing the circuit. The primary concept I took advantage of here is the usage of input pins and pulldown resistors.
   
-<img src="images_folder/IMG_2225.jpg" height=300 width=500 align=right style="float:right; padding-left:10px">
+<img src="images_folder/IMG_2225.jpg" height=300 width=600 align=right style="float:right; padding-left:10px">
 
 </HTML>
 
