@@ -10,6 +10,10 @@ This project was my attempt to create a custom controller that can be connected 
 
 # Second Milestone
 
+  My second milestone includes the addition of a control stick, the usage of internal pullup resistors, and a separate button for changing the mode of the joystick from mouse control to WASD control. After understanding the basics of Arduino's functions and how to build a circuit, I focused on adding another component to increase the complexity as well as improve any pre-existing components.
+  
+**PICTURES ADDED SOON**
+
 # First Milestone
 
 <HTML>
