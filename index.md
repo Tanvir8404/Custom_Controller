@@ -24,6 +24,8 @@ This project was my attempt to create a custom controller that can be connected 
   
 **PICTURES ADDED SOON**
 
+[![Tanvir I Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1626876927/video_to_markdown/images/youtube--iPxXEkMKDf8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=iPxXEkMKDf8 "Tanvir I Milestone 2")
+
 # First Milestone
 
 <HTML>
@@ -40,7 +42,5 @@ This project was my attempt to create a custom controller that can be connected 
 <img src="images_folder/ESP32 BlueTooth Issue.png" height=325 width=425 align=left style="float:left; padding-right:0px">
   
 </HTML>
-
-  ‎
 
 [![Tanvir I Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1626222369/video_to_markdown/images/youtube--pSd6XLdJq5s-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=pSd6XLdJq5s "Tanvir I Milestone 1")
