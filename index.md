@@ -6,7 +6,7 @@ This project was my attempt to create a custom controller that can be connected 
 |:--:|:--:|:--:|:--:|
 | Tanvir Islam | Brooklyn Technical High School | Electrical Engineering | Incoming Senior
 
-# Final Milestone
+# Third Milestone
 
 # Second Milestone
 
@@ -14,8 +14,11 @@ This project was my attempt to create a custom controller that can be connected 
 
   My second milestone includes the addition of a control stick, the usage of internal pullup resistors, and a separate button for changing the mode of the joystick from mouse control to WASD control. After understanding the basics of Arduino's functions and how to build a circuit, I focused on adding another component to increase the complexity as well as improve any pre-existing components. Some of the male-male wires were replaced with shorter variants to leave more space on the breadboard.
    
-  The physical implementation of the control stick was relatively simple. Each pin on the control stick has a label that corresponds with a label on the Arduino Micro, all of which can be connected directly from the board to the component. (GND → GND; 5V → 5V; VR<sub>x</sub>, VR<sub>y</sub>, SW → input pins). Starting with the circuitry, there is a pin that connects ground on the Arduino Micro to the negative rail on the breadboard. For each button, a short wire connects the negative rail to one end of the button. On the other end, a longer wire connects each button to a pin on the Arduino. Normally, this circuit would have no potential difference throughout. However, initializing each pin as an internal pullup resistor (diagram shown) allows the circuit to not require the usage of the positive rail.
+  The physical implementation of the control stick was relatively simple. Each pin on the control stick has a label that corresponds with a label on the Arduino Micro, all of which can be connected directly from the board to the component. (GND → GND; 5V → 5V; VR<sub>x</sub>, VR<sub>y</sub>, SW → input pins). More specifically, VR<sub>x</sub> and VR<sub>y</sub> connected to the analog pins as they need to detect a range of motion on a control stick, while SW is the integral button of said control stick
   
+  Starting with the circuitry, there is a pin that connects ground on the Arduino Micro to the negative rail on the breadboard. For each button, a short wire connects the negative rail to one end of the button. On the other end, a longer wire connects each button to a pin on the Arduino. Normally, this circuit would have no potential difference throughout. However, initializing each pin as an internal pullup resistor (diagram shown) allows the circuit to not require the usage of the positive rail.
+  
+  Although not mentioned in the video, I opted for a dual analog system rather than a button-switch mechanism. This way, I can make one stick dedicated to WASD (game movement) and the other stick for the cursor.
   
 </HTML>  
   
@@ -41,5 +44,3 @@ This project was my attempt to create a custom controller that can be connected 
   ‎
 
 [![Tanvir I Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1626222369/video_to_markdown/images/youtube--pSd6XLdJq5s-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=pSd6XLdJq5s "Tanvir I Milestone 1")
-
-**UNDER CONSTRUCTION**
