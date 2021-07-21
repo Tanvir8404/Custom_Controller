@@ -20,7 +20,13 @@ This project was my attempt to create a custom controller that can be connected 
   
   Although not mentioned in the video, I opted for a dual analog system rather than a button-switch mechanism. This way, I can make one stick dedicated to WASD (game movement) and the other stick for the cursor.
   
-</HTML>  
+</HTML>
+
+<HTML>
+
+<img src="images_folder/IMG-2232.jpg" height=475 width=450 align=left style="float:left; padding-right:10px">
+  
+</HTML>
   
 **PICTURES ADDED SOON**
 
