@@ -10,7 +10,7 @@ This project was my attempt to create a custom controller that can be connected 
 
 <HTML>
 
-<img src="images_folder/IMG-2232.jpg" height=475 width=450 align=right style="float:right; padding-left:10px">
+<img src="images_folder/IMG-2232.jpg" height=500 width=500 align=right style="float:right; padding-left:10px">
   
   My second milestone includes the addition of a control stick, the usage of internal pullup resistors, and a separate button for changing the mode of the joystick from mouse control to WASD control. After understanding the basics of Arduino's functions and how to build a circuit, I focused on adding another component to increase the complexity as well as improve any pre-existing components. Some of the male-male wires were replaced with shorter variants to leave more space on the breadboard.
    
