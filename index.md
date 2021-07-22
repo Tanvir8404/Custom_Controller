@@ -6,8 +6,6 @@ This project was my attempt to create a custom controller that can be connected 
 |:--:|:--:|:--:|:--:|
 | Tanvir Islam | Brooklyn Technical High School | Electrical Engineering | Incoming Senior
 
-# Third Milestone
-
 # Second Milestone
 
 <HTML>
