@@ -19,6 +19,8 @@ This project was my attempt to create a custom controller that can be connected 
   Starting with the circuitry, there is a pin that connects ground on the Arduino Micro to the negative rail on the breadboard. For each button, a short wire connects the negative rail to one end of the button. On the other end, a longer wire connects each button to a pin on the Arduino. Normally, this circuit would have no potential difference throughout. However, initializing each pin as an internal pullup resistor (diagram shown) allows the circuit to not require the usage of the positive rail.
   
   Although not mentioned in the video, I opted for a dual analog system rather than a button-switch mechanism. This way, I can make one stick dedicated to WASD (game movement) and the other stick for the cursor.
+
+<img src="images_folder/IMG-2232.jpg" height=560 width=510 align=left style="float:left; padding-right:10px">
   
 </HTML>
 
