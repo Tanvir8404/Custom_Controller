@@ -55,6 +55,7 @@ This project was my attempt to create a custom controller that can be connected 
 
   (Top) Sketch of the first version of the circuit. Note that the bottom bars are meant to be the positive and negative column on a breadboard.
   <br>
+  <br>
   (Bottom) Screenshot of a BlueTooth issue that prevented the connection of the ESP32.
   
 </HTML>
