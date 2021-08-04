@@ -58,6 +58,10 @@ This project was my attempt to create a custom controller that can be connected 
   <br>
   <br>
   <br>
+  <br>
+  <br>
+  <br>
+  <br>
   (Top) Sketch of the first version of the circuit. Note that the bottom bars are meant to be the positive and negative column on a breadboard.
   <br>
   <br>
