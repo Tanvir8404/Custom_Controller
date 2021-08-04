@@ -47,9 +47,11 @@ This project was my attempt to create a custom controller that can be connected 
   To start, the power supply and ground are provided by the Arduino Micro from the 3V3 pin and the GND pin respectively. The value the input pin reads essentially acts as a Boolean value for an "if" statement. When the button is released, the current is no longer flowing through the sensor wire. As a result, this prompted the use of a resistor (more specifically, the pull-down resistor) whose sole purpose is to return to ground, effectively completing the circuit.
   
   It is noteworthy that I was unable to establish a Bluetooth connection with the ESP32, which ran into constantly inconsistent issues, one of which is shown below. Thankfully, the Arduino Micro was still more than sufficient for the desired outcome.
-  
+  <br>
+  <br>
+  <br>
   <img src="images_folder/IMG-2225.jpg" width=400 align=left style="float:left; padding-right:20px">
-  <img src="images_folder/ESP32 BlueTooth Issue.png" width=400 style="float:left; padding-right:20px">
+  <img src="images_folder/ESP32 BlueTooth Issue.png" width=400 style="float:left; padding-right:40px">
 
   (Left) Sketch of the first version of the circuit. Note that the bottom bars are meant to be the positive and negative column on a breadboard. (Right) Screenshot of a BlueTooth issue that prevented the connection of the ESP32.
   
