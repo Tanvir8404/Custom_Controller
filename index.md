@@ -52,7 +52,8 @@ This project was my attempt to create a custom controller that can be connected 
   <br>
   <img src="images_folder/IMG-2225.jpg" height=200 width=400 align=left style="float:left; padding-right:20px">
   <img src="images_folder/ESP32 BlueTooth Issue.png" width=400 style="float:left; padding-right:40px">
-
+  <br>
+  <br>
   (Top) Sketch of the first version of the circuit. Note that the bottom bars are meant to be the positive and negative column on a breadboard.
   <br>
   <br>
