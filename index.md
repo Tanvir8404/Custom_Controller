@@ -49,8 +49,8 @@ This project was my attempt to create a custom controller that can be connected 
   It is noteworthy that I was unable to establish a Bluetooth connection with the ESP32, which ran into constantly inconsistent issues, one of which is shown below. Thankfully, the Arduino Micro was still more than sufficient for the desired outcome.
   
 <figure>
-  <img src="images_folder/IMG-2225.jpg" height=325 width=525 align=left style="float:left; padding-right:0px">
-  <img src="images_folder/ESP32 BlueTooth Issue.png" height=325 width=425>
+  <img src="images_folder/IMG-2225.jpg" height=175 width=225 align=left style="float:left; padding-right:0px">
+  <img src="images_folder/ESP32 BlueTooth Issue.png" height=100 width=200>
   <figcaption> (Left) Sketch of the first version of the circuit. Note that the bottom bars are meant to be the positive and negative column on a breadboard. (Right) Screenshot of a BlueTooth issue that prevented the connection of the ESP32.
   </figcaption>
 </figure>
