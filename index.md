@@ -53,14 +53,13 @@ This project was my attempt to create a custom controller that can be connected 
 
 <HTML>
   
-<img src="images_folder/IMG-2207.jpg" height=510 width=425 align=left style="float:left; padding-right:10px">
+<img src="images_folder/IMG-2207.jpg" height=515 width=425 align=left style="float:left; padding-right:10px">
   
   &emsp;&ensp;My first milestone was creating a circuit that uses: an Arduino Micro, pushbuttons, and resistors, in order to remotely trigger a keyboard response (the arrow keys in particular). This point marks the establishment of the basics for this project. At its core, the button press changes the state of the voltage between the sensor wire and the rest of the circuit. I initially used male-male wires to connect the breadboard, which is why it may appear very jumbled.
   <br>
   &emsp;&ensp;To start, the power supply and ground are provided by the Arduino Micro from the 3V3 pin and the GND pin respectively. The value the input pin reads essentially acts as a Boolean value for an "if" statement. When the button is released, the current is no longer flowing through the sensor wire. As a result, this prompted the use of a resistor (more specifically, the pull-down resistor) whose sole purpose is to return to ground, effectively completing the circuit.
   <br>
   &emsp;&ensp;It is noteworthy that I was unable to establish a Bluetooth connection with the ESP32, which would connect and disconnect from my Mac. Thankfully, the Arduino Micro was still more than sufficient for the desired outcome.
-  <br>
   <br>
   <br>
   <img src="images_folder/IMG-2225.jpg" height=250 width=400 align=left style="float:left; padding-right:30px">
