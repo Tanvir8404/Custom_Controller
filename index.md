@@ -63,7 +63,7 @@ This project was my attempt to create a custom controller that can be connected 
   <br>
   <br>
   <br>
-  <img src="images_folder/IMG-2225.jpg" height=300 width=400 align=left style="float:left; padding-right:30px">
+  <img src="images_folder/IMG-2225.jpg" height=250 width=400 align=left style="float:left; padding-right:30px">
   <img src="images_folder/ESP32 BlueTooth Issue.png" width=400 style="float:left; padding-right:30px">
   <br>
   <br>
