@@ -20,9 +20,9 @@ This project was my attempt to create a custom controller that can be connected 
   
   &emsp;&ensp;The next major step in my project was adding an accelerometer as a separate source of user input. By tilting the accelerometer in any given direction, this will carry out the same function as the joysticks. Furthermore, there is an integrated mode switch with an LED to display what mode the accelerometer is on. Of note, this is also the first time I was required to solder. Namely, the pins must be soldered to the holes on the accelerometer.
   <br>
+  &emsp;&ensp;There are four pins that must be soldered to the accelerometer board: VCC, GND, SCL (Serial Clock Line), and SDA (Serial Data Line). Assuming the board in question does not have dedicated pins for SDA and SCL, SDA must correspond to pin 2 and SCL must correspond to pin 3 in order for the accelerometer to return the proper values. When setting up the accelerometer, run a test sketch using the MPU6050 library to see what values are reflected in the serial monitor. Make sure to calibrate the code such that when the accelerometer is in a resting position, all accelerometer values return 0.
   <br>
-  &emsp;&ensp;There are four pins that must be soldered to the accelerometer board: VCC, GND, SCL (Serial Clock Line), and SDA (Serial Data Line). Assuming the board in question does not have dedicated pins for SDA and SCL, SDA must correspond to pin 2 and SCL must correspond to pin 3 in order for the accelerometer to return the proper values. When setting up the accelerometer, run a test sketch using the MPU6050 library to see what values are reflected in the serial monitor. Make sure to calibrate the code such that when the accelerometer is in a resting position, all accelerometer values return 0 m/s<sup>2</sup>.
-  <br>
+  &emsp;&ensp;The accelerometer returns three types of values: acceleration (m/s<sup>2</sup>), rotation (rad), and temperature (ºC). Given the physical scale of this project, it may be helpful to convert these values to more familiar units. Personally, I would convert radians to degrees and Celsius to Fahrenheit. m/s<sup>2</sup> was kept the same as the accelerometer reads the force of gravity upon its z-axis.
   
 </HTML>
 
