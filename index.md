@@ -34,7 +34,6 @@ This project was my attempt to create a custom controller that can be connected 
 <HTML>
 
 <img src="images_folder/IMG-2232.jpg" height=560 width=510 align=right style="float:right; padding-left:10px">
-  <br>
   &emsp;&ensp;My second milestone includes the addition of a control stick, the usage of internal pullup resistors, and a separate button for changing the mode of the joystick from mouse control to WASD control. After understanding the basics of Arduino's functions and how to build a circuit, I focused on adding another component to increase the complexity as well as improve any pre-existing components. Some of the male-male wires were replaced with shorter variants to leave more space on the breadboard.
   <br>
   &emsp;&ensp;The physical implementation of the control stick was relatively simple. Each pin on the control stick has a label that corresponds with a label on the Arduino Micro, all of which can be connected directly from the board to the component. More specifically, VR<sub>x</sub> and VR<sub>y</sub> connected to the analog pins as they need to detect a range of motion on a control stick, while SW is the integral button of said control stick and thus only needs a digital pin.
@@ -63,7 +62,7 @@ This project was my attempt to create a custom controller that can be connected 
   <br>
   <br>
   <img src="images_folder/IMG-2225.jpg" height=250 width=400 align=left style="float:left; padding-right:30px">
-  <img src="images_folder/ESP32 BlueTooth Issue.png" width=400 style="float:left; padding-right:30px">
+  <img src="images_folder/ESP32 BlueTooth Issue.png" height=250 width=400 style="float:left; padding-right:30px">
   <br>
   <br>
   <br>
