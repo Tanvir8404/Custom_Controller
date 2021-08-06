@@ -24,9 +24,10 @@ This project was my attempt to create a custom controller that can be connected 
   &emsp;&ensp;There are four pins that must be soldered to the accelerometer board: VCC, GND, SCL (Serial Clock Line), and SDA (Serial Data Line). Assuming the board in question does not have dedicated pins for SDA and SCL, SDA must correspond to pin 2 and SCL must correspond to pin 3 in order for the accelerometer to return the proper values. When setting up the accelerometer, run a test sketch using the MPU6050 library to see what values are reflected in the serial monitor. Make sure to calibrate the code such that when the accelerometer is in a resting position, all accelerometer values return 0 m/s<sup>2</sup>.
   <br>
   
-[![Tanvir I Milestone 3](https://res.cloudinary.com/marcomontalbano/image/upload/v1628201539/video_to_markdown/images/youtube--7l8I_YvEgpI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=7l8I_YvEgpI "Tanvir I Milestone 3"){:target="_blank" rel="noopener"}
-  
 </HTML>
+
+[![Tanvir I Milestone 3](https://res.cloudinary.com/marcomontalbano/image/upload/v1628201539/video_to_markdown/images/youtube--7l8I_YvEgpI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=7l8I_YvEgpI "Tanvir I Milestone 3"){:target="_blank" rel="noopener"}
+
 
 # Second Milestone
 
