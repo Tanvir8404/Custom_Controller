@@ -18,7 +18,7 @@ This project was my attempt to create a custom controller that can be connected 
 
 <HTML>
 
-<img src="images_folder/Accelerometer Milestone.jpg" height=500 width=425 align=left style="float:left; padding-right:10px">
+<img src="images_folder/Accelerometer Milestone.jpg" height=300 width=425 align=left style="float:left; padding-right:10px">
   
   &emsp;&ensp;The next major step in my project was adding an accelerometer as a separate source of user input. By tilting the accelerometer in any given direction, this will carry out the same function as the joysticks. Furthermore, there is an integrated mode switch with an LED to display what mode the accelerometer is on. Of note, this is also the first time I was required to solder. Namely, the pins must be soldered to the holes on the accelerometer.
   <br>
