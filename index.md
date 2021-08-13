@@ -97,8 +97,8 @@ This project was my attempt to create a custom controller that can be connected 
   <br>
   &emsp;&ensp;Although not mentioned in the video, I opted for a dual analog system rather than a button-switch mechanism. This way, I can make one stick dedicated to WASD (game movement) and the other stick for the cursor.
   <br>
-  (Left) Pullup resistor diagram (note the Arduino Micro does this internally)
 <img src="images_folder/IMG-2229.jpg" height=325 width=525 align=left style="float:left; padding-right:10px">
+  (Left) Pullup resistor diagram (note the Arduino Micro does this internally)
   
 </HTML>
 
