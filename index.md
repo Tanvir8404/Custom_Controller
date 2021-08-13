@@ -25,6 +25,7 @@ This project was my attempt to create a custom controller that can be connected 
   &emsp;&ensp;As for what the command change accomplishes, this disables most of the controller and allows the user to change the color of the LED. I originally planned for three separate potentiometers for the input method, but instead opted for using the WASD joystick to keep the size compact. The individual RGB values can be cycled through by clicking on the joystick's button.
   <br>
   [Controller (Arduino Micro)](Code/Controller_2.ino)
+  [Pins and Definitions (Controller)](Code/PinDefinitionsAndMore.h)
   
 </HTML>
 
