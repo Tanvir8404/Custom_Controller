@@ -8,6 +8,8 @@ This project was my attempt to create a custom controller that can be connected 
 
 # Reflection
 
+## Demo Night
+
   [![Tanvir I Demo Night Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1628860576/video_to_markdown/images/youtube--GVp77Ah1Uaw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=GVp77Ah1Uaw "Tanvir I Demo Night Video"){:target="_blank" rel="noopener"}
 
 <HTML>
@@ -27,7 +29,7 @@ This project was my attempt to create a custom controller that can be connected 
   
 </HTML>
 
-  [Controller (Arduino Micro)](Code/Controller_2.ino)
+  [Controller (Arduino Micro);](Code/Controller_2.ino)
   [Pins and Definitions (Controller)](Code/PinDefinitionsAndMore.h)
 
   [![Tanvir I Milestone 4](https://res.cloudinary.com/marcomontalbano/image/upload/v1628777078/video_to_markdown/images/youtube--KQRvoghxhRg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=KQRvoghxhRg "Tanvir I Milestone 4"){:target="_blank" rel="noopener"}
