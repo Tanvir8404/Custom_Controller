@@ -100,29 +100,17 @@ This project was my attempt to create a custom controller that can be connected 
   &emsp;&ensp;To start, the power supply and ground are provided by the Arduino Micro from the 3V3 pin and the GND pin respectively. The value the input pin reads essentially acts as a Boolean value for an "if" statement. When the button is released, the current is no longer flowing through the sensor wire. As a result, this prompted the use of a resistor (more specifically, the pull-down resistor) whose sole purpose is to return to ground, effectively completing the circuit.
   <br>
   &emsp;&ensp;It is noteworthy that I was unable to establish a Bluetooth connection with the ESP32, which would connect and disconnect from my Mac. Thankfully, the Arduino Micro was still more than sufficient for the desired outcome.
-  <br>
-  <br>
+  <br><br>
   <img src="images_folder/IMG-2225.jpg" height=250 width=400 align=left style="float:left; padding-right:30px">
   <img src="images_folder/ESP32 BlueTooth Issue.png" height=250 width=400 style="float:left; padding-right:30px">
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
+  <br><br><br><br><br><br><br><br><br><br>
   (Left) Sketch of the first version of the circuit. Note that the bottom bars are meant to be the positive and negative column on a breadboard.
-  <br>
-  <br>
+  <br><br>
   (Right) Screenshot of a BlueTooth issue that prevented the connection of the ESP32.
   <br>
+  
 </HTML>
 
 [Pushbuttons](code/Pushbutton_D-Pad.ino)
 <br>
 [![Tanvir I Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1626222369/video_to_markdown/images/youtube--pSd6XLdJq5s-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=pSd6XLdJq5s "Tanvir I Milestone 1"){:target="_blank" rel="noopener"}
-
-  
