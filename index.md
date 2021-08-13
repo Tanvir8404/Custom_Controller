@@ -21,7 +21,7 @@ This project was my attempt to create a custom controller that can be connected 
  
 <HTML>
   
-  <img src="images_folder/IMG-2314.jpg" height=500 width=900 align=left style="float:left; padding-right:10px">
+  <img src="images_folder/IMG-2314.jpg" height=500 width=910 align=left style="float:left; padding-right:10px">
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
   
 </HTML>
