@@ -18,25 +18,7 @@ This project was my attempt to create a custom controller that can be connected 
   &emsp;&ensp;
 
   <img src="images_folder/IMG-2314.jpg" height=500 width=900 align=left style="float:left; padding-right:10px">
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
   
 </HTML>
   
@@ -53,11 +35,11 @@ This project was my attempt to create a custom controller that can be connected 
   
 </HTML>
 
-  [Controller (Arduino Micro);](code/Controller_2.ino)
-  [Pins and Definitions (Controller)](code/PinDefinitionsAndMore.h)
+[Controller (Arduino Micro);](code/Controller_2.ino)
+[Pins and Definitions (Controller)](code/PinDefinitionsAndMore.h)
   <br>
-  [External Sensors (Arduino Uno);](code/Simple_Sender__personal_.ino)
-  [Pins and Definitions (Sensors)](code/PinDefinitionsAndMore2.h)
+[External Sensors (Arduino Uno);](code/Simple_Sender__personal_.ino)
+[Pins and Definitions (Sensors)](code/PinDefinitionsAndMore2.h)
 
   [![Tanvir I Milestone 4](https://res.cloudinary.com/marcomontalbano/image/upload/v1628777078/video_to_markdown/images/youtube--KQRvoghxhRg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=KQRvoghxhRg "Tanvir I Milestone 4"){:target="_blank" rel="noopener"}
 
@@ -77,9 +59,7 @@ This project was my attempt to create a custom controller that can be connected 
 </HTML>
 
 [Accelerometer](code/Gyroscope_Test.ino)
-<HTML>
-  <br>
-</HTML>
+<br>
 [![Tanvir I Milestone 3](https://res.cloudinary.com/marcomontalbano/image/upload/v1628201539/video_to_markdown/images/youtube--7l8I_YvEgpI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=7l8I_YvEgpI "Tanvir I Milestone 3"){:target="_blank" rel="noopener"}
 
 
@@ -138,9 +118,6 @@ This project was my attempt to create a custom controller that can be connected 
 </HTML>
 
 [Pushbuttons](code/Pushbutton_D-Pad.ino)
-<HTML>
-  <br>
-</HTML>
 [![Tanvir I Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1626222369/video_to_markdown/images/youtube--pSd6XLdJq5s-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=pSd6XLdJq5s "Tanvir I Milestone 1"){:target="_blank" rel="noopener"}
 
   
