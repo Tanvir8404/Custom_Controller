@@ -14,7 +14,9 @@ This project was my attempt to create a custom controller that can be connected 
   
   &emsp;&ensp;My final major milestone consisted of adding IR communication via a transmitter and receiver as well as an ultrasonic sensor. To complement the addition of the aforementioned sensors, I added an RGB LED that can change state when a certain IR command is received. I attempted to solder all the components together on one large perf board. Unfortunately, I was unable to complete that portion in time due to time constraints and an unexpected issue that arose.
   <br>
-  &emsp;&ensp;The IR transmitter and receiver are connected to different boards. More specifically, the receiver should be on the controller while the transmitter should be offboard completely. As their names imply, the transmitter gives off infrared signals (represented in code as a hexadecimal) which the receiver then picks up and executes the command associated with it.
+  &emsp;&ensp;The IR transmitter and receiver are connected to different boards. More specifically, the receiver should be on the controller while the transmitter should be offboard completely. As their names imply, the transmitter gives off infrared signals (represented in code as a hexadecimal) which the receiver then picks up and executes the command associated with it. The ultrasonic sensor continually scans until something obstructs it, in which it internally switches the IR command transmitted.
+  <br>
+  &emsp;&ensp;H
   
 </HTML>
 
