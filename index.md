@@ -6,7 +6,13 @@ This project was my attempt to create a custom controller that can be connected 
 |:--:|:--:|:--:|:--:|
 | Tanvir Islam | Brooklyn Technical High School | Electrical Engineering | Incoming Senior
 
+# Reflection
+
   [![Tanvir I Demo Night Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1628860576/video_to_markdown/images/youtube--GVp77Ah1Uaw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=GVp77Ah1Uaw "Tanvir I Demo Night Video"){:target="_blank" rel="noopener"}
+
+<HTML>
+  
+</HTML>
 
 # Fourth Milestone
 
@@ -16,7 +22,7 @@ This project was my attempt to create a custom controller that can be connected 
   <br>
   &emsp;&ensp;The IR transmitter and receiver are connected to different boards. More specifically, the receiver should be on the controller while the transmitter should be offboard completely. As their names imply, the transmitter gives off infrared signals (represented in code as a hexadecimal) which the receiver then picks up and executes the command associated with it. The ultrasonic sensor continually scans until something obstructs it, in which it internally switches the IR command transmitted.
   <br>
-  &emsp;&ensp;H
+  &emsp;&ensp;As for what the command change accomplishes, this disables most of the controller and allows the user to change the color of the LED. I originally planned for three separate potentiometers for the input method, but instead opted for using the WASD joystick to keep the size compact. The individual RGB values can be cycled through by clicking on the joystick's button.
   
 </HTML>
 
