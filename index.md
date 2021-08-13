@@ -17,6 +17,8 @@ This project was my attempt to create a custom controller that can be connected 
   
   &emsp;&ensp;
 
+  <img src="images_folder/IMG-2314.jpg" height=500 width=500 align=left style="float:left; padding-right:10px">
+  
 </HTML>
   
 # Fourth Milestone
