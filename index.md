@@ -53,11 +53,11 @@ This project was my attempt to create a custom controller that can be connected 
   
 </HTML>
 
-  [Controller (Arduino Micro);](Code/Controller_2.ino)
-  [Pins and Definitions (Controller)](Code/PinDefinitionsAndMore.h)
+  [Controller (Arduino Micro);](code/Controller_2.ino)
+  [Pins and Definitions (Controller)](code/PinDefinitionsAndMore.h)
   <br>
-  [External Sensors (Arduino Uno);](Code/Simple_Sender__personal_.ino)
-  [Pins and Definitions (Sensors)](Code/PinDefinitionsAndMore2.h)
+  [External Sensors (Arduino Uno);](code/Simple_Sender__personal_.ino)
+  [Pins and Definitions (Sensors)](code/PinDefinitionsAndMore2.h)
 
   [![Tanvir I Milestone 4](https://res.cloudinary.com/marcomontalbano/image/upload/v1628777078/video_to_markdown/images/youtube--KQRvoghxhRg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=KQRvoghxhRg "Tanvir I Milestone 4"){:target="_blank" rel="noopener"}
 
@@ -76,7 +76,7 @@ This project was my attempt to create a custom controller that can be connected 
   
 </HTML>
 
-[Accelerometer](Code/Gyroscope_Test.ino)
+[Accelerometer](code/Gyroscope_Test.ino)
 <HTML>
   <br>
 </HTML>
@@ -102,7 +102,7 @@ This project was my attempt to create a custom controller that can be connected 
   
 </HTML>
 
-[Joystick and Buttons](Code/Controller__1.ino)
+[Joystick and Buttons](code/Controller__1.ino)
 [![Tanvir I Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1626876927/video_to_markdown/images/youtube--iPxXEkMKDf8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=iPxXEkMKDf8 "Tanvir I Milestone 2"){:target="_blank" rel="noopener"}
 
 # First Milestone
@@ -134,10 +134,10 @@ This project was my attempt to create a custom controller that can be connected 
   <br>
   <br>
   (Right) Screenshot of a BlueTooth issue that prevented the connection of the ESP32.
-  
+  <br>
 </HTML>
 
-  
+[Pushbuttons](code/Pushbutton_D-Pad.ino)
 [![Tanvir I Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1626222369/video_to_markdown/images/youtube--pSd6XLdJq5s-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=pSd6XLdJq5s "Tanvir I Milestone 1"){:target="_blank" rel="noopener"}
 
   
