@@ -37,9 +37,6 @@ This project was my attempt to create a custom controller that can be connected 
   <br>
   <br>
   <br>
-  <br>
-  <br>
-  <br>
   
 </HTML>
   
