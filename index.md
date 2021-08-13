@@ -8,6 +8,12 @@ This project was my attempt to create a custom controller that can be connected 
 
 # Reflection
 
+<HTML>
+  
+  &emsp;&ensp;I really enjoyed my time at BlueStamp. It has been a memorable experience, and I'm especially grateful for the awesome instructors that helped me get here. In regards to the project, I hope the custom controller may become a staple in the program because of the versatility and uniqueness that such a project offers. Rather than be disappointed I didn't get all the functionality I wanted, I'm excited to continue exploring for more ideas. Perhaps for now this project will just be a reminder of my first steps into the engineering world, but one day, I hope I can return to this stepping stone and turn it into something more practical.
+  
+</HTML>
+
 ### Demo Night
 
   [![Tanvir I Demo Night Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1628860576/video_to_markdown/images/youtube--GVp77Ah1Uaw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=GVp77Ah1Uaw "Tanvir I Demo Night Video"){:target="_blank" rel="noopener"}
@@ -15,8 +21,6 @@ This project was my attempt to create a custom controller that can be connected 
  
 <HTML>
   
-  &emsp;&ensp;
-
   <img src="images_folder/IMG-2314.jpg" height=500 width=900 align=left style="float:left; padding-right:10px">
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
   
