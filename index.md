@@ -23,6 +23,8 @@ This project was my attempt to create a custom controller that can be connected 
   &emsp;&ensp;The IR transmitter and receiver are connected to different boards. More specifically, the receiver should be on the controller while the transmitter should be offboard completely. As their names imply, the transmitter gives off infrared signals (represented in code as a hexadecimal) which the receiver then picks up and executes the command associated with it. The ultrasonic sensor continually scans until something obstructs it, in which it internally switches the IR command transmitted.
   <br>
   &emsp;&ensp;As for what the command change accomplishes, this disables most of the controller and allows the user to change the color of the LED. I originally planned for three separate potentiometers for the input method, but instead opted for using the WASD joystick to keep the size compact. The individual RGB values can be cycled through by clicking on the joystick's button.
+  <br>
+  [Controller_2](Code/Controller_2.ino)
   
 </HTML>
 
