@@ -24,10 +24,11 @@ This project was my attempt to create a custom controller that can be connected 
   <br>
   &emsp;&ensp;As for what the command change accomplishes, this disables most of the controller and allows the user to change the color of the LED. I originally planned for three separate potentiometers for the input method, but instead opted for using the WASD joystick to keep the size compact. The individual RGB values can be cycled through by clicking on the joystick's button.
   <br>
-  [Controller (Arduino Micro)](Code/Controller_2.ino)
-  [Pins and Definitions (Controller)](Code/PinDefinitionsAndMore.h)
   
 </HTML>
+
+  [Controller (Arduino Micro)](Code/Controller_2.ino)
+  [Pins and Definitions (Controller)](Code/PinDefinitionsAndMore.h)
 
   [![Tanvir I Milestone 4](https://res.cloudinary.com/marcomontalbano/image/upload/v1628777078/video_to_markdown/images/youtube--KQRvoghxhRg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=KQRvoghxhRg "Tanvir I Milestone 4"){:target="_blank" rel="noopener"}
 
